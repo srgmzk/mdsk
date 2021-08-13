@@ -21,7 +21,8 @@ Plug 'https://github.com/vim-airline/vim-airline-themes.git'
 "Plug 'https://github.com/rakr/vim-one.git'
 Plug 'https://github.com/benmills/vimux.git'
 "Plug 'https://github.com/vim-scripts/DrawIt.git'
-
+Plug 'https://github.com/mattn/emmet-vim.git'
+Plug 'https://github.com/posva/vim-vue.git'
 
 call plug#end()
 
@@ -186,3 +187,5 @@ else
 endif
 
 set paste
+
+set foldmethod=marker foldmarker={,} foldlevel=2 
