@@ -189,3 +189,4 @@ endif
 set paste
 
 set foldmethod=marker foldmarker={,} foldlevel=2 
+packadd termdebug
