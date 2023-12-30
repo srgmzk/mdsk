@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/mos'
+let g:netrw_dirhist_3='/home'
+let g:netrw_dirhist_2='/home/mos/disk1/mrn_projects/pppbcm/buildroot-2022.02.3/output/build/linux-5.15.18/drivers/net/ppp'
+let g:netrw_dirhist_1='/home/mos/disk1/myenv/mdsk/move-to-next-monitor'
